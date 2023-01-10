@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">私のセルフプロモアプリ</string>
+    <string name="hint_contact_name">連絡先名</string>
+    <string name="hint_contact_number">連絡先</string>
+    <string name="hint_my_display_name">私の表示名</string>
+    <string name="checkbox_include_junior">ジュニア」を含む</string>
+    <string name="checkbox_immediate_start">即時開始</string>
+    <string name="text_input_available_from_date">配信開始日</string>
+    <string name="button_preview_message">プレビューメッセージ</string>
+
+</resources>

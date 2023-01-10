@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">My Self-Promo App</string>
+    
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="hint_contact_number">Contact Number</string>
+    <string name="hint_my_display_name">My Display Name</string>
+    <string name="checkbox_include_junior">Include Junior</string>
+    <string name="checkbox_immediate_start">Immediate Start</string>
+    <string name="text_input_available_from_date">Available from Date</string>
+    <string name="button_preview_message">Preview Message</string>
+
+
+</resources>
